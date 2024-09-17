@@ -64,7 +64,7 @@ const RegisterForm: React.FC = () => {
                 </div>
             </div>
             <div className="mb-3">
-                <label htmlFor="first_name" className='form-label'>First Name</label>
+                <label htmlFor="first_name" className='form-label'>Nama Depan</label>
                 <div className="input-group">
                     <span className="input-group-text"><HiOutlineUser /></span>
                     <input
@@ -79,7 +79,7 @@ const RegisterForm: React.FC = () => {
                 </div>
             </div>
             <div className="mb-3">
-                <label htmlFor="last_name" className='form-label'>Last Name</label>
+                <label htmlFor="last_name" className='form-label'>Nama Belakang</label>
                 <div className="input-group">
                     <span className="input-group-text"><HiOutlineUser /></span>
                     <input
